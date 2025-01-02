@@ -19,12 +19,6 @@
 4. 📈 **Dynamic Visualization**: Instantly view visual outputs and analysis results in the chat interface.
 5. 🔧 **Code Transparency**: Retrieve and modify the underlying code, ensuring adaptability and a hands-on experience.
 
-### **Example Commands**
-- "🧹 Clean the dataset and fill missing values."
-- "📊 Visualize the distribution of the 'income' column."
-- "🔍 Show me a correlation heatmap of the dataset."
-- "🛠️ Encode categorical variables using one-hot encoding."
-
 ### **How to Run the Project**
 
 #### **1. Clone the Repository**
