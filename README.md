@@ -29,7 +29,7 @@
 
 #### **1. Clone the Repository**
 ```bash
-git clone https://github.com/VishnuDurairaj/Data-Insights-Agent.git
+git clone https://github.com/pavankumarcn66/Data-Insights-Agent.git
 cd Data-Insights-Agent
 ```
 
@@ -51,4 +51,4 @@ http://localhost:8080
 ```
 
 #### **5. Upload Your Data**
-📂 Upload an Excel file through the interface and start exploring your data with the conversational AI assistant.
+📂 Upload an Excel or CSV file through the interface and start exploring your data with the conversational AI assistant.
